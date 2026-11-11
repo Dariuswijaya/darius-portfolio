@@ -1,8 +1,8 @@
 /* Darius Wijaya — Website portofolio. Tanpa dependensi JavaScript eksternal. */
 
 // Ubah ke true SETELAH file PDF asli disimpan sebagai assets/cv.pdf.
-const CV_AVAILABLE = false;
-const CV_PATH = 'assets/cv.pdf';
+const CV_AVAILABLE = true;
+const CV_PATH = assets/cv-darius-wijaya-publik.pdf';
 
 const nav = document.getElementById('nav-links');
 const menuToggle = document.querySelector('.menu-toggle');
